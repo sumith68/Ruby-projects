@@ -1,0 +1,16 @@
+A "toy" implementation of the Huffman compression algorithm
+==============================================================
+I wrote this program as an exercise for learning Ruby. I had 
+previously written a similar program in Python.
+
+
+The input string is for the moment fixed as "aaabccdeeeeeffg"
+
+The program is executed using the command:
+  
+   ruby huffman.rb
+
+we get the encoded bit pattern of the input string and
+the original string as the output.
+ 
+
